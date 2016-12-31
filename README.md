@@ -61,10 +61,15 @@ void loop()
 1st connect a ftdi serial/usb to your pc and link wires like this:
 
 ftdi  <-> esp8266-12E AI thinker
+
 Txd   <-> Rxd
+
 Rxd   <-> Txd
+
 Gnd   <-> Gnd
+
 3v3   <-> Vcc
+
 
 Note that ftdi must be running 3v3 IO
 
