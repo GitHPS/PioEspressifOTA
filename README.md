@@ -75,6 +75,7 @@ Gnd   <-> Gnd
 ***VERY IMPORTANT*** 
 1. ftdi must be running 3v3 IO
 2. Some pins are mislabeled (GPIO04, GPIO05, TX and RX at the bottom). Please follow the top image.
+3. Make sure you close the jumper connecting GPIO0 to GND. This is a must for entering in FLASH mode.
 
 Test compiling:
 ```sh
@@ -172,6 +173,9 @@ $ sudo arp-scan --interface=eth0 --localnet
 include the folowing line in platformio.ini:
 
 ***upload_port=espota.local*** or ***upload_port=192.168.x.y***
+
+Now you can flash using OTA.
+***NOTE:*** you don't need that GPIO0 jumper closed anymore. ;)
 
 ### blink with OTA
 src/main.cpp
