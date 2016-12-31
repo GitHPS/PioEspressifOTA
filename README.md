@@ -71,6 +71,7 @@ Gnd   <-> Gnd
 
 3v3   <-> Vcc
 
+![Espressif_material](https://github.com/pedrogoliveira/PioEspressifOTA/raw/master/images/IMG_0124.JPG)
 
 ***VERY IMPORTANT*** 
 1. ftdi must be running 3v3 IO
