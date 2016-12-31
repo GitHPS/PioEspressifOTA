@@ -72,7 +72,9 @@ Gnd   <-> Gnd
 3v3   <-> Vcc
 
 
-Note that ftdi must be running 3v3 IO
+***VERY IMPORTANT*** 
+1. ftdi must be running 3v3 IO
+2. Some pins are mislabeled (GPIO04, GPIO05, TX and RX at the bottom). Please follow the top image.
 
 Test compiling:
 ```sh
