@@ -12,7 +12,6 @@ $ pio platform install expressif
 $ pio init board nodemcuv2
 ```
 
-
 ### Make a test program (blink led)
 
 ```sh
