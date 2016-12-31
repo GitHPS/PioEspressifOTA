@@ -3,6 +3,7 @@
 ![Espressif_mod_12E](https://github.com/pedrogoliveira/PioEspressifOTA/raw/master/images/esp8266-12_mod.png)
 
 ### Material
+![Espressif_material](https://github.com/pedrogoliveira/PioEspressifOTA/raw/master/images/esp8266-12e_ftdi_640.JPG)
 
 ### Preparation 
 ```sh
