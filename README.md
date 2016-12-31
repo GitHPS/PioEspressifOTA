@@ -1,6 +1,6 @@
 # Espressif (esp8266-12E) Modules, Platformio and OTA
 
-[![N|Solid](http://www.esp8266.com/wiki/lib/exe/fetch.php?w=400&tok=defe10&media=esp8266-12_mod.png)](http://www.esp8266.com/wiki/doku.php?id=esp8266-dev-boards)
+![Espressif_mod_12E](https://github.com/pedrogoliveira/PioEspressifOTA/raw/master/images/esp8266-12_mod.png)
 
 ### Material
 
