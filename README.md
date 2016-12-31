@@ -6,7 +6,7 @@
 
 ### Preparation 
 ```sh
-$ mkdir esp_test
+$ mkdir PioEspressifOTA
 $ pio platform install expressif
 $ pio init board nodemcuv2
 ```
@@ -15,6 +15,7 @@ $ pio init board nodemcuv2
 ### Make a test program (blink led)
 
 ```sh
+$ cd PioEspressifOTA
 $ vim src/main.cpp
 ```
 main.cpp:
