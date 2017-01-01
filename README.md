@@ -73,6 +73,7 @@ Gnd   <-> Gnd
 ![Espressif_material](https://github.com/pedrogoliveira/PioEspressifOTA/raw/master/images/IMG_0124.JPG)
 
 ***VERY IMPORTANT*** 
+
 1. ftdi must be running 3v3 IO
 2. Some pins are mislabeled (GPIO04, GPIO05, TX and RX at the bottom). Please follow the top image.
 3. Make sure you close the jumper connecting GPIO0 to GND. This is a must for entering in FLASH mode.
